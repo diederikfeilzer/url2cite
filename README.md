@@ -1,4 +1,4 @@
-# url2city
+# url2cite
 Url of a paper to citation
 
 Usage: python url2cite.py {paper URL or DOI number} {citation style, optional}
